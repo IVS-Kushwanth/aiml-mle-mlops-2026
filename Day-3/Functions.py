@@ -44,6 +44,3 @@ while True:
         print("Result:", divide(a, b))
     else:
         print("Invalid choice. Try again.")
-    
-
-    
